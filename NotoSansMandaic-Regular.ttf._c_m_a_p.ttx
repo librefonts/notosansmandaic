@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0x640" name="afii57440"/><!-- ARABIC TATWEEL -->
+      <map code="0x840" name="uni0840"/><!-- ???? -->
+      <map code="0x841" name="uni0841"/><!-- ???? -->
+      <map code="0x842" name="uni0842"/><!-- ???? -->
+      <map code="0x843" name="uni0843"/><!-- ???? -->
+      <map code="0x844" name="uni0844"/><!-- ???? -->
+      <map code="0x845" name="uni0845"/><!-- ???? -->
+      <map code="0x846" name="uni0846"/><!-- ???? -->
+      <map code="0x847" name="uni0847"/><!-- ???? -->
+      <map code="0x848" name="uni0848"/><!-- ???? -->
+      <map code="0x849" name="uni0849"/><!-- ???? -->
+      <map code="0x84a" name="uni084A"/><!-- ???? -->
+      <map code="0x84b" name="uni084B"/><!-- ???? -->
+      <map code="0x84c" name="uni084C"/><!-- ???? -->
+      <map code="0x84d" name="uni084D"/><!-- ???? -->
+      <map code="0x84e" name="uni084E"/><!-- ???? -->
+      <map code="0x84f" name="uni084F"/><!-- ???? -->
+      <map code="0x850" name="uni0850"/><!-- ???? -->
+      <map code="0x851" name="uni0851"/><!-- ???? -->
+      <map code="0x852" name="uni0852"/><!-- ???? -->
+      <map code="0x853" name="uni0853"/><!-- ???? -->
+      <map code="0x854" name="uni0854"/><!-- ???? -->
+      <map code="0x855" name="uni0855"/><!-- ???? -->
+      <map code="0x856" name="uni0856"/><!-- ???? -->
+      <map code="0x857" name="uni0857"/><!-- ???? -->
+      <map code="0x858" name="uni0858"/><!-- ???? -->
+      <map code="0x859" name="uni0859"/><!-- ???? -->
+      <map code="0x85a" name="uni085A"/><!-- ???? -->
+      <map code="0x85b" name="uni085B"/><!-- ???? -->
+      <map code="0x85e" name="uni085E"/><!-- ???? -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>
