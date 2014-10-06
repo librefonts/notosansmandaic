@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Mandaic",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 9815,
+  "fonts": [
+    {
+      "name": "Noto Sans Mandaic",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansMandaic-Regular.ttf",
+      "postScriptName": "NotoSansMandaic",
+      "fullName": "Noto Sans Mandaic",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
